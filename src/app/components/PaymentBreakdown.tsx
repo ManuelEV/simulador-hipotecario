@@ -30,7 +30,7 @@ const PaymentBreakdown = ({ dividend }: { dividend: number }) => {
                 outerRadius={90}
                 dataKey="value"
                 labelLine={false}
-                label={({ name }) => name.split(" ")[0]} // etiqueta simple
+                label={({ name }) => name && name.split(" ")[0]} // etiqueta simple
               >
                 {breakdown.map((_, index) => (
                   <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
