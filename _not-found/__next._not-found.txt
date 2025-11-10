@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[33878,["/simulador-hipotecario/_next/static/chunks/a8dc01b7cd395d63.js"],"default"]
 3:I[74492,["/simulador-hipotecario/_next/static/chunks/a8dc01b7cd395d63.js"],"default"]
-0:{"buildId":"cx0ZUEvcAzA8z99T8vPvK","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"vTxdxuevYs_VXf7INjNzy","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
